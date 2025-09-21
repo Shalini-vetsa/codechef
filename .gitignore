@@ -1,0 +1,34 @@
+# Compiled binaries
+*.exe
+*.out
+a.out
+solution
+*.class
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+dist/
+bin/
+
+# Language specific
+__pycache__/
+*.pyc
+*.pyo
+node_modules/
